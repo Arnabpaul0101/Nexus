@@ -20,6 +20,13 @@ It features secure authentication, user profiles, and a full CRUD system for "Pu
    - `npm install`
    - `npm run dev`
 
+## 🔑 Credentials & Testing
+Since the `.env` file is excluded for security, the application will connect to your own MongoDB instance. 
+
+**To test the Auth & CRUD flow:**
+1. Create an account via the **Signup** page.
+2. Log in with those credentials.
+
 ## 💡 Scalability Note
 To scale Nexus for production, I would:
 - Implement **Redis** for caching frequently accessed feed posts.
