@@ -9,7 +9,7 @@ It features secure authentication, user profiles, and a full CRUD system for "Pu
 - [cite_start]**Security:** JWT Authentication, Bcrypt Password Hashing [cite: 31, 50]
 
 ## 🛠️ Setup Instructions
-1. Clone the repo: `git clone <your-repo-url>`
+1. Clone the repo: `git clone https://github.com/Arnabpaul0101/Nexus.git`
 2. **Backend Setup:**
    - `cd server`
    - `npm install`
